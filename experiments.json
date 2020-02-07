@@ -1,0 +1,78 @@
+{
+"mweb": [
+{
+"value": "TANGO-5683",
+"name": "Includes bus experiment"
+},
+{
+"value": "TANGO-6051",
+"name": "Remove ID"
+},
+{
+"value": "TANGO-6512",
+"name": "CVV iFrame experiment"
+},
+{
+"value": "TANGO-7388",
+"name": "Skip seat experiment"
+},
+{
+"value": "TANGO-7806",
+"name": "ETicket above loader"
+},
+{
+"value": "TANGO-7989",
+"name": "JourneySummary across booking"
+},
+{
+"value": "TANGO-6475",
+"name": "Add Data capture message"
+},
+{
+"value": "TANGO-7593",
+"name": "Continue button"
+},
+{
+"value": "TANGO-7842",
+"name": "Back to results"
+}
+],
+"dweb": [
+{
+"value": "TANGO-5683",
+"name": "Includes bus experiment"
+},
+{
+"value": "TANGO-6051",
+"name": "Remove ID"
+},
+{
+"value": "TANGO-6512",
+"name": "CVV iFrame experiment"
+},
+{
+"value": "TANGO-7388",
+"name": "Skip seat experiment"
+},
+{
+"value": "TANGO-7806",
+"name": "ETicket above loader"
+},
+{
+"value": "TANGO-7989",
+"name": "JourneySummary across booking"
+},
+{
+"value": "TANGO-6475",
+"name": "Add Data capture message"
+},
+{
+"value": "TANGO-7593",
+"name": "Continue button"
+},
+{
+"value": "TANGO-7842",
+"name": "Back to results"
+}
+]
+}
